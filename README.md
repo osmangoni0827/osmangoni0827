@@ -1,4 +1,5 @@
-### Hi there 👋, My name is Mohamad Osman Goni
+### Hi there 👋 
+### My name is Mohamad Osman Goni
 #### MERN Stack Web Developer
 ![MERN Stack Web Developer](https://i.ibb.co/pxtj4cL/Add-a-heading.png)
 
@@ -12,13 +13,13 @@ Skills:  REACT / Node / JS / Mongodb / Metrial Ui / Sass / HTML / CSS
 - 🤔 I’m looking for help with Google 
 - 💬 Ask me about React and all tech stuff 
 - ⚡ Fun fact: I love to hardworking and create awesome , creative website 
-<br/>
+<br/><br/>
 ### 📑 My resume:
    ###### 🖨 [Resume](https://drive.google.com/file/d/1jbKqWxMbkw9Bn3tEtNBrUzCQzlceqoSi/view?usp=sharing)
 
 <br><br/>
 ### Connect With: 
-[<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='22px'>](https://github.com/osmangoni0827)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='22px'>](https://www.linkedin.com/in/mohamad-osman-goni-030819190//)  [<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='22px'>](https://www.facebook.com/mohammadosman.goni.505/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width='22px'>](https://twitter.com/Mohamma22609001)  
+[<img padding='20px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='22px'>](https://github.com/osmangoni0827)  [<img padding='20px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='22px'>](https://www.linkedin.com/in/mohamad-osman-goni-030819190//)  [<img padding='20px'  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='22px'>](https://www.facebook.com/mohammadosman.goni.505/)  [<img padding='20px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width='22px'>](https://twitter.com/Mohamma22609001)  
 <br /><br />
 
 ### Language and Tools:
