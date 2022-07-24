@@ -1,10 +1,3 @@
-### Hi there 👋
-### My name is Mohamad Osman Goni
-#### MERN Stack Web Developer
-![MERN Stack Web Developer]()
-
-I am Mohammad Osman Goni a technology enthusiast. I really enjoy learning programming languages and frameworks like React and Next Js.  I work on software development using JavaScript.
-
 
 <h1 align="center">Hey there 👋, I Mohammad Osman goni</h1>
 <img align="right" alt="coding" width="250" src= "https://i.ibb.co/pxtj4cL/Add-a-heading.png">
